@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+h1{
+    color: #bf0000;
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    background: linear-gradient(#fdba74, white,  #3b82f6);
+    padding: 2rem;
+}
+html{
+    background-color: whitesmoke;
+}
